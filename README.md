@@ -38,7 +38,7 @@ $ yarn
 $ yarn dev
 ```
 
-- Utilize o programa [Insomnia](https://insomnia.rest/download/) para importar o arquivo `Insommia.json` e executar as requisições de exemplo de forma mais simples
+- Utilize o programa [Insomnia](https://insomnia.rest/download/) para importar o arquivo com requisições de exemplo `Insommia.json` e executá-las
 
 
 ## Construido com
