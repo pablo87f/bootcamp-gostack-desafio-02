@@ -19,6 +19,10 @@ module.exports = {
                 type: Sequelize.INTEGER,
                 allowNull: false,
             },
+            complement: {
+                type: Sequelize.STRING,
+                allowNull: false,
+            },
             state: {
                 type: Sequelize.STRING,
                 allowNull: false,
