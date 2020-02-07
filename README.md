@@ -1,4 +1,4 @@
-# Bootcamp - Desafio 01
+# Desafio 2: FastFeet, o início
 
 Projeto do desafio 02 proposto no curso 'Bootcamp - GoStack' da RocketSeat(https://github.com/Rocketseat/bootcamp-gostack-desafio-02)
 Uma API desenvolvida com Node.js para autenticar usuário admin e gerenciar a criação, atualização, listagem e exclusão de destinatários.
