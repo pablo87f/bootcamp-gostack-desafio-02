@@ -47,8 +47,8 @@ $ yarn dev
 * [express](https://github.com/expressjs/express) - Biblioteca utilizada para tratar as requisições da API
 * [jsonwebtoken]() - Uma implementação de Json Web Token
 * [pg](https://github.com/brianc/node-postgres) - Cliente Postgres para Node.js
-* [pg-hstore]() - Node.js ORM
-* [sequelize](https://github.com/sequelize/sequelize) -
+* [pg-hstore](https://github.com/scarney81/pg-hstore) - Um pacote Node para serializar e desserializar dados JSON para o formato hstore
+* [sequelize](https://github.com/sequelize/sequelize) - ORM Node.js
 * [yup](https://github.com/jquense/yup) - Validação de parâmetros de rotas
 
 * [eslint](https://github.com/eslint/eslint) - Identificador de erros de padrão de código javascript
